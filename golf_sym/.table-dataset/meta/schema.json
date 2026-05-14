@@ -1,0 +1,1 @@
+[{"id": "591ef995-ce34-489b-8cd5-e8444a22379b", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "60f5de8d-d9df-4ed7-9139-ab5ee4cc7776", "name": "geom", "dataType": "geometry", "geometryType": "POINT", "geometryCRS": "EPSG:2193"}]
