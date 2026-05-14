@@ -1,0 +1,1 @@
+[{"id": "591ef995-ce34-489b-8cd5-e8444a22379b", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "a25ea8b3-5dfa-4b02-bb39-94b2625d868e", "name": "geom", "dataType": "geometry", "geometryType": "MULTIPOLYGON", "geometryCRS": "EPSG:2193"}]
