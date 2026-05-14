@@ -1,0 +1,1 @@
+[{"id": "591ef995-ce34-489b-8cd5-e8444a22379b", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "d719cd4a-875a-4847-9003-7a39457d7d5c", "name": "geom", "dataType": "geometry", "geometryType": "POINT", "geometryCRS": "EPSG:2193"}, {"id": "028712f7-ed38-49c2-badb-0e4d553aad85", "name": "mine_vis", "dataType": "text", "length": 30}]
