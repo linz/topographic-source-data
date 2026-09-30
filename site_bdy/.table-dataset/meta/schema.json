@@ -1,1 +1,1 @@
-[{"id": "6a976b27-2344-43a9-8bdb-5f75cdbc041d", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "92f87b70-d854-4982-b23d-83fc37f4d81a", "name": "geom", "dataType": "geometry", "geometryType": "MULTILINESTRING", "geometryCRS": "EPSG:2193"}]
+[{"id": "6a976b27-2344-43a9-8bdb-5f75cdbc041d", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "92f87b70-d854-4982-b23d-83fc37f4d81a", "name": "geometry", "dataType": "geometry", "geometryType": "MULTILINESTRING", "geometryCRS": "EPSG:2193"}]
