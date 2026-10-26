@@ -1,0 +1,10 @@
+<GDALMultiDomainMetadata>
+  <Metadata>
+    <MDI key="DBF_DATE_LAST_UPDATE">2026-10-02</MDI>
+  </Metadata>
+  <Metadata domain="SHAPEFILE">
+    <MDI key="CPG_VALUE">UTF-8</MDI>
+    <MDI key="ENCODING_FROM_CPG">UTF-8</MDI>
+    <MDI key="SOURCE_ENCODING">UTF-8</MDI>
+  </Metadata>
+</GDALMultiDomainMetadata>
